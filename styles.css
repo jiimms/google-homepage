@@ -2,6 +2,29 @@ body{
 	background: rgb(255, 255, 255);
 }
 
+#goobar-right{
+/*	min-width: 241px;*/
+	color: #000;
+	opacity: .75;
+	/*float: right;*/
+	width:100%;
+	text-align: right;
+}
+
+
+
+.goobar-icon{
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+    padding-left: 15px;
+    font-size: 15px;
+    
+}
+
+
+
 #primary{
 	text-align: -webkit-center;
 }
